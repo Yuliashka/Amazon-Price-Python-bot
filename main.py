@@ -8,8 +8,8 @@ import lxml
 from bs4 import BeautifulSoup
 import smtplib
 
-my_email = "justtotestmycode@gmail.com"
-password = "privet123456amoremio"
+my_email = "  "
+password = "  "
 
 # AMAZON LINK:
 url = "https://www.amazon.com/Sera-Aqua-Test-Aquarium-Test-Kits/dp/B003XJAZDW/ref=sr_1_2/?_encoding=UTF8&dchild=1&keywords=sera&qid=1617169744&sr=8-2&ref_=nav_newcust&claim_type=EmailAddress&new_account=1&"
