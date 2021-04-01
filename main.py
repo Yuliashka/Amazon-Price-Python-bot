@@ -23,8 +23,8 @@ url = "https://www.amazon.com/Sera-Aqua-Test-Aquarium-Test-Kits/dp/B003XJAZDW/re
 
 # CREATING A HEADER:
 header = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36",
-    "Accept-Language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7"
+    "User-Agent": "",
+    "Accept-Language": ""
 }
 
 # GETTING AMAZON PAGE:
